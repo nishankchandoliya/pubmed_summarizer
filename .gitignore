@@ -1,0 +1,13 @@
+# output of the script
+results.json
+
+# not going on github
+video_script.txt
+
+# python and mac junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
